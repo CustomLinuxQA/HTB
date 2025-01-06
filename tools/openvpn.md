@@ -1,0 +1,1 @@
+sudo openvpn --config /home/arch/Documents/kabach/tools/starting_point_GoatAtmega.ovpn
